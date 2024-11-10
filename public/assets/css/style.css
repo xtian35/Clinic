@@ -1,0 +1,599 @@
+.form-control,
+.form-select,
+.asColorPicker-input,
+.dataTables_wrapper select,
+.select2-container--default .select2-selection--single,
+.select2-container--default .select2-selection--single .select2-search__field,
+.typeahead,
+.tt-query,
+.tt-hint {
+  border: 1px solid #dee2e6 !important;
+  font-weight: 400 !important;
+  font-size: 0.875rem !important;
+  border-radius: 4px !important;
+  height: 2.5rem !important;
+}
+
+/* .swal2-modal .swal2-icon, .swal2-modal .swal2-success-ring {
+    margin-top: 20px !important;
+    margin-bottom: 42px;
+} */
+.img-preview {
+  height: 370px;
+}
+.img-prev {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+/* Calendar */
+#calendar {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.fc-day {
+  min-height: 60px;
+  padding: 10px;
+  cursor: pointer;
+}
+.swal2-modal {
+  padding: 10px !important;
+  border-radius: 12px !important;
+}
+.swal2-html-container,
+.swal2-title {
+  color: rgb(49, 49, 49) !important;
+}
+.swal2-icon .swal2-icon-content {
+  display: flex;
+  align-items: center;
+  font-size: 1.3em !important;
+}
+.swal2-cancel {
+  margin-top: 0 !important;
+}
+
+.success {
+  background: #cdf3cd;
+  padding: 10px 60px;
+  border: #c3e6c3 1px solid;
+  display: inline-block;
+}
+
+.saved-date {
+  background-color: lightblue !important;
+  color: white;
+}
+
+#calendarsetSched {
+  width: 750px;
+  margin: 0 auto;
+}
+
+.AM {
+  flex-direction: column;
+}
+
+.fc-day {
+  min-height: 60px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.success {
+  background: #cdf3cd;
+  padding: 10px 60px;
+  border: #c3e6c3 1px solid;
+  display: inline-block;
+}
+
+.date_selected {
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.modal-title-custom {
+  font-size: 18px !important;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+.fc-day-header {
+  align-items: center;
+  padding: 10px 20px !important;
+}
+.fc-head-container {
+  background-color: #1f3bb3 !important;
+  color: white;
+}
+.fc-left h2 {
+  font-size: 22px !important;
+}
+
+.color-tiles .success {
+  width: 26 !important;
+  height: 26 !important;
+  padding: 0 !important;
+}
+
+textarea.form-control {
+  min-height: 5rem !important;
+}
+
+/* Teeth */
+.teeth1 {
+  height: 40.4px !important;
+  width: 33px !important;
+  position: absolute;
+  top: 41.4%;
+  left: 23.4%;
+  cursor: pointer;
+}
+.teeth2 {
+  height: 40.4px !important;
+  width: 38.2px !important;
+  position: absolute;
+  top: 34.5%;
+  left: 23.5%;
+  cursor: pointer;
+}
+.teeth3 {
+  height: 44.2px !important;
+  width: 38.9px !important;
+  position: absolute;
+  top: 26.7%;
+  left: 25.3%;
+  cursor: pointer;
+}
+.teeth4 {
+  height: 29px !important;
+  width: 29.2px !important;
+  position: absolute;
+  top: 22.7%;
+  left: 28.7%;
+  cursor: pointer;
+}
+.teeth5 {
+  height: 30px !important;
+  width: 29px !important;
+  position: absolute;
+  top: 17.6%;
+  left: 31.3%;
+  cursor: pointer;
+}
+.teeth6 {
+  height: 26px !important;
+  width: 23px !important;
+  position: absolute;
+  top: 14.2%;
+  left: 34.4%;
+  cursor: pointer;
+}
+.teeth7 {
+  height: 25px !important;
+  width: 23px !important;
+  position: absolute;
+  top: 12%;
+  left: 38.6%;
+  cursor: pointer;
+}
+
+.teeth8 {
+  height: 26.5px !important;
+  width: 30.2px !important;
+  position: absolute;
+  top: 10.7%;
+  left: 43.4%;
+  cursor: pointer;
+}
+
+.teeth9 {
+  height: 26.5px !important;
+  width: 30.2px !important;
+  position: absolute;
+  top: 10.7%;
+  left: 50.3%;
+  cursor: pointer;
+}
+
+.teeth10 {
+  height: 25px !important;
+  width: 23px !important;
+  position: absolute;
+  top: 12%;
+  left: 56.6%;
+  cursor: pointer;
+}
+
+.teeth11 {
+  height: 26.4px !important;
+  width: 23px !important;
+  position: absolute;
+  top: 14.2%;
+  left: 61.2%;
+  cursor: pointer;
+}
+
+.teeth12 {
+  height: 30px !important;
+  width: 29px !important;
+  position: absolute;
+  top: 17.6%;
+  left: 62.7%;
+  cursor: pointer;
+}
+
+.teeth13 {
+  height: 29px !important;
+  width: 29.5px !important;
+  position: absolute;
+  top: 22.7%;
+  left: 65.2%;
+  cursor: pointer;
+}
+
+.teeth14 {
+  height: 44.2px !important;
+  width: 38.9px !important;
+  position: absolute;
+  top: 26.8%;
+  left: 66.6%;
+  cursor: pointer;
+}
+.teeth15 {
+  height: 40.4px !important;
+  width: 38.2px !important;
+  position: absolute;
+  top: 34.5%;
+  left: 68.4%;
+  cursor: pointer;
+}
+.teeth16 {
+  height: 40.4px !important;
+  width: 33px !important;
+  position: absolute;
+  top: 41.4%;
+  left: 69.6%;
+  cursor: pointer;
+}
+.teeth17 {
+  height: 37.5px !important;
+  width: 31.5px !important;
+  position: absolute;
+  top: 53.7%;
+  left: 69.9%;
+  cursor: pointer;
+}
+
+.teeth18 {
+  height: 41px !important;
+  width: 39.2px !important;
+  position: absolute;
+  top: 60.7%;
+  left: 67.9%;
+  cursor: pointer;
+}
+.teeth19 {
+  height: 44px !important;
+  width: 40px !important;
+  position: absolute;
+  top: 67.4%;
+  left: 65.4%;
+  cursor: pointer;
+}
+.teeth20 {
+  height: 29px !important;
+  width: 29px !important;
+  position: absolute;
+  top: 74.6%;
+  left: 64.2%;
+  cursor: pointer;
+}
+.teeth21 {
+  height: 29px !important;
+  width: 29px !important;
+  position: absolute;
+  top: 79%;
+  left: 61.2%;
+  cursor: pointer;
+}
+.teeth22 {
+  height: 27px !important;
+  width: 25px !important;
+  position: absolute;
+  top: 82.5%;
+  left: 58.4%;
+  cursor: pointer;
+}
+.teeth23 {
+  height: 21px !important;
+  width: 22px !important;
+  position: absolute;
+  top: 85.1%;
+  left: 54.5%;
+  cursor: pointer;
+}
+
+.teeth24 {
+  height: 21px !important;
+  width: 20px !important;
+  position: absolute;
+  top: 85.8%;
+  left: 50.3%;
+  cursor: pointer;
+}
+
+.teeth25 {
+  height: 21px !important;
+  width: 20px !important;
+  position: absolute;
+  top: 85.8%;
+  left: 45.8%;
+  cursor: pointer;
+}
+.teeth26 {
+  height: 21px !important;
+  width: 21px !important;
+  position: absolute;
+  top: 85%;
+  left: 41.4%;
+  cursor: pointer;
+}
+.teeth27 {
+  height: 27px !important;
+  width: 25px !important;
+  position: absolute;
+  top: 82.5%;
+  left: 36.6%;
+  transform: rotate(8deg);
+  cursor: pointer;
+}
+.teeth28 {
+  height: 29px !important;
+  width: 29px !important;
+  position: absolute;
+  top: 79%;
+  left: 33.2%;
+  cursor: pointer;
+}
+
+.teeth29 {
+  height: 29px !important;
+  width: 29px !important;
+  position: absolute;
+  top: 74.7%;
+  left: 30.1%;
+  cursor: pointer;
+}
+
+.teeth30 {
+  height: 44px !important;
+  width: 40px !important;
+  position: absolute;
+  top: 67.4%;
+  left: 26.6%;
+  cursor: pointer;
+}
+.teeth31 {
+  height: 41.2px !important;
+  width: 39.4px !important;
+  position: absolute;
+  top: 60.7%;
+  left: 24.4%;
+  cursor: pointer;
+}
+
+.teeth32 {
+  position: absolute;
+  height: 37.5px !important;
+  width: 32.5px !important;
+  top: 53.7%;
+  left: 23.8%;
+  cursor: pointer;
+}
+
+.teeth33 {
+  position: absolute;
+  height: 47.5px !important;
+  width: 39px !important;
+  top: 41.9%;
+  left: 32.6%;
+  cursor: pointer;
+}
+.teeth34 {
+  position: absolute;
+  height: 47.3px !important;
+  width: 39px !important;
+  top: 35.9%;
+  left: 33.6%;
+  cursor: pointer;
+}
+.teeth35 {
+  position: absolute;
+  height: 40px !important;
+  width: 35px !important;
+  top: 31.6%;
+  left: 35.4%;
+  transform: rotate(-10deg);
+  cursor: pointer;
+}
+.teeth36 {
+  position: absolute;
+  height: 41px !important;
+  width: 37px !important;
+  top: 28.6%;
+  left: 38.9%;
+  transform: rotate(-5deg);
+  cursor: pointer;
+}
+.teeth37 {
+  position: absolute;
+  height: 41px !important;
+  width: 37.8px !important;
+  top: 27.2%;
+  left: 43.2%;
+  transform: rotate(-5deg);
+  cursor: pointer;
+}
+.teeth38 {
+  position: absolute;
+  height: 41px !important;
+  width: 37.8px !important;
+  top: 27.2%;
+  left: 49.5%;
+  transform: rotate(-5deg);
+  cursor: pointer;
+}
+.teeth39 {
+  position: absolute;
+  height: 41.3px !important;
+  width: 37px !important;
+  top: 28.6%;
+  left: 53.6%;
+  cursor: pointer;
+}
+.teeth40 {
+  position: absolute;
+  height: 40px !important;
+  width: 35px !important;
+  top: 31.6%;
+  left: 57.4%;
+  transform: rotate(-10deg);
+  cursor: pointer;
+}
+.teeth41 {
+  position: absolute;
+  height: 47.3px !important;
+  width: 39px !important;
+  top: 35.9%;
+  left: 58.6%;
+  cursor: pointer;
+}
+.teeth42 {
+  position: absolute;
+  height: 47.5px !important;
+  width: 39.7px !important;
+  top: 41.9%;
+  left: 59.6%;
+  cursor: pointer;
+}
+.teeth43 {
+  position: absolute;
+  height: 47px !important;
+  width: 44px !important;
+  top: 52.7%;
+  left: 58.9%;
+  cursor: pointer;
+}
+.teeth44 {
+  position: absolute;
+  height: 47.8px !important;
+  width: 44px !important;
+  top: 58.9%;
+  left: 57.9%;
+  cursor: pointer;
+}
+.teeth45 {
+  position: absolute;
+  height: 38px !important;
+  width: 37px !important;
+  top: 64.7%;
+  left: 56.4%;
+  cursor: pointer;
+}
+.teeth46 {
+  position: absolute;
+  height: 38px !important;
+  width: 37px !important;
+  top: 67.3%;
+  left: 53.1%;
+  cursor: pointer;
+}
+.teeth47 {
+  position: absolute;
+  height: 37.3px !important;
+  width: 37px !important;
+  top: 68.5%;
+  left: 48.4%;
+  transform: rotate(9deg);
+  cursor: pointer;
+}
+.teeth48 {
+  position: absolute;
+  height: 37.3px !important;
+  width: 36.5 px !important;
+  top: 68.3%;
+  left: 44.4%;
+  cursor: pointer;
+}
+.teeth49 {
+  position: absolute;
+  height: 38px !important;
+  width: 37px !important;
+  top: 67.4%;
+  left: 39.7%;
+  cursor: pointer;
+}
+.teeth50 {
+  position: absolute;
+  height: 38px !important;
+  width: 37px !important;
+  top: 64.7%;
+  left: 36.4%;
+  cursor: pointer;
+}
+.teeth51 {
+  position: absolute;
+  height: 47.8px !important;
+  width: 44px !important;
+  top: 58.9%;
+  left: 33.9%;
+  cursor: pointer;
+}
+.teeth52 {
+  position: absolute;
+  height: 47px !important;
+  width: 44px !important;
+  top: 52.7%;
+  left: 32.7%;
+  cursor: pointer;
+}
+#popup {
+  position: absolute;
+  display: none;
+  border: 1px solid lightgray;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 3px;
+  padding: 4px;
+}
+.tooths-class {
+  height: 30px !important;
+  padding: 4px 20px !important;
+  border-radius: 3px !important;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+#teeth_box {
+  position: relative !important;
+  width: 496px !important;
+}
+
+.profilepic {
+  width: 50px;
+  height: 50px;
+}
+
+.label-custom {
+  font-size: 12px;
+}
+.border-custom {
+  border: 2px solid red;
+}
+.forgot {
+  font-size: 12px;
+}
